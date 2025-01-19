@@ -3,7 +3,7 @@
 
 # Placement Prediction Project
 
-<img src="">
+<img src="https://github.com/rpjinu/Placement_Prediction/blob/main/placement_image_project.png">
 
 ## Overview
 The Placement Prediction Project is a machine learning application designed to predict the placement outcomes of students based on various input features such as IQ, CGPA, communication skills, technical skills, extracurricular activities, internship experience, and leadership skills. The project uses a trained model to provide insights into students' likelihood of getting placed in a company.
